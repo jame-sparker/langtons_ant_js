@@ -1,9 +1,6 @@
 # Langton's Ant JS
 Javascript implementation of Langton's ant.
-
-<section>
-    <img width="500" alt="Wikipedia demo" src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_wiki_sim.png">  <img width="500" alt="Rosseta code demo" src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_ros_sim.png">
-</section>
+<img alt="Wikipedia demo" src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_wiki_sim.png"> 
 
 ## Description
 This is a small one day project on Langton's ant implementation with javascript.
@@ -37,3 +34,6 @@ the code from `langtons_ant.js`.
 - NUMBER_OF_ANTS (= 3)
 - MAX_STEPS (= 10,000)
 - STEP_TIME (= 10) //ms
+
+## Images
+<img alt="Rosseta code demo" src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_ros_sim.png">
