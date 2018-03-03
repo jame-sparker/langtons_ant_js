@@ -1,5 +1,6 @@
 # Langton's Ant JS
 Javascript implementation of Langton's ant.
+
 <img alt="Wikipedia demo" src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_wiki_sim.png"> 
 
 ## Description
