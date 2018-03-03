@@ -17,7 +17,7 @@ There are two main ways to run the code. One is to use javascript console and ot
 
 ### Bookmarklet
 1. Copy the code from `langtons_ant_min.js`. The file contains all code except for preceding `j`.
-2. Open your favourite page with your browser and scroll to any part of the page.
+2. Open your favourite page on your browser and scroll to any part of the page.
 3. In your address bar at the top, delete the current address, type in `j`, and paste the content of the file that you have just copied.
 4. Press enter.
 
@@ -25,7 +25,7 @@ There are two main ways to run the code. One is to use javascript console and ot
 You can follow the same procedure from above and paste the code to javascript console on chrome which can opened with `F12` or copy 
 the code from `langtons_ant.js`.
 1. Copy the code from `langtons_ant.js`.
-2. Open your favourite page with your browser and scroll to any part of the page.
+2. Open your favourite page on your browser and scroll to any part of the page.
 3. Open javascript console with `F12`
 4. Paste and run your in your console.
 
@@ -37,3 +37,6 @@ the code from `langtons_ant.js`.
 - STEP_TIME (= 10) //ms
 
 ## Demo
+
+[Hello World!][1]
+[1]:javascript:alert('Hello World')
