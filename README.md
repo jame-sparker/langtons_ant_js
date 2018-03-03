@@ -1,7 +1,7 @@
 # Langton's Ant JS
 Javascript implementation of Langton's ant.
-
-![Image of Yaktocat](https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_wiki_sim.png)
+<img src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_wiki_sim.png" alt="Wikipedia demo" style="width: 200px;"/>
+<img src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_ros_sim.png" alt="Rosseta code demo" style="width: 100px;"/>
 
 ## Description
 This is a small one day project on Langton's ant implementation with javascript.
@@ -35,7 +35,3 @@ the code from `langtons_ant.js`.
 - NUMBER_OF_ANTS (= 3)
 - MAX_STEPS (= 10,000)
 - STEP_TIME (= 10) //ms
-
-## Demo
-
-<a href="javascript:(function()%7Bfunction%20callback()%7BparseTT()%7Dvar%20s%3Ddocument.createElement(%22script%22)%3Bs.src%3D%22https%3A%2F%2Fretrography.github.io%2FVUTt%2Fvutt.js%22%3Bif(s.addEventListener)%7Bs.addEventListener(%22load%22%2Ccallback%2Cfalse)%7Delse%20if(s.readyState)%7Bs.onreadystatechange%3Dcallback%7Ddocument.body.appendChild(s)%3B%7D)()">Run</a>
