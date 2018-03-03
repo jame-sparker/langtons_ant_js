@@ -1,7 +1,9 @@
 # Langton's Ant JS
 Javascript implementation of Langton's ant.
-<img src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_wiki_sim.png" alt="Wikipedia demo" style="width: 200px;"/>
-<img src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_ros_sim.png" alt="Rosseta code demo" style="width: 100px;"/>
+
+<section>
+    <img width="500" alt="Wikipedia demo" src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_wiki_sim.png">  <img width="500" alt="Rosseta code demo" src="https://raw.githubusercontent.com/jame-sparker/langtons_ant_js/master/assets/la_ros_sim.png">
+</section>
 
 ## Description
 This is a small one day project on Langton's ant implementation with javascript.
